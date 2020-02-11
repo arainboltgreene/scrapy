@@ -1,0 +1,2 @@
+# scrapy
+just learning scrapy
